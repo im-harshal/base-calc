@@ -1,4 +1,4 @@
-### Simple calculator app
+### Simple calculator app using React
 
 Addition (plus): It adds the value from the input field to the current result.
 
